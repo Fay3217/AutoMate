@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@mui/icons-material": "^5.11.16",
+    "google-map-react": "^2.2.1"
+  }
+}
