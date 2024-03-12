@@ -1,18 +1,2 @@
-# BusynessNYC
-To check how busy NYC is at a certain time 
-
-## How to contribute to BusynessNYC?
-1. Fork repository from upstream, which is Saoirse's repository here.
-![plot](./img_src/fork-1.png)
-![plot](./img_src/fork-2.png)
-![plot](./img_src/fork-3.png)
-2. Clone the project files from your own repository, and work with them. All of your work should sync with your own repository but not Saoirse's.
-
-3. When you think your work is ready to merge, open the Pull Request, then click 'compare across forks'. Remember to change target base from 'main' to 'next-dev', then you will see the differencies between the upstream developing branch and your own branch. 
-![plot](./img_src/pr-1.png)
-![plot](./img_src/pr-2.png)
-4. Before you 'Create pull request'. You can change 'Reviewers' to maintenance lead, which is 'Lou1s-Chan' here, and click 'Request' to send a review-required notification.
-
-5. In every Thursday, 'next-dev' branch will merge to 'main' branch.
-
-6. Saoirse's repository should never be touched directly if not needed to.
+# AutoMate -- Project on predicting BusynessNYC
+The project aimed to develop an intuitively designed application named AutoMate which caters specifically to drivers navigating Manhattan. By harnessing historical data and leveraging advanced machine learning models, the application anticipates congestion levels across distinct zones within Manhattan. This predictive insight is then amalgamated to provide users with an informed projection of the anticipated occupancy at various parking facilities through a user-friendly interface. The application is developed from the ground up using cutting-edge technology stack across all facets of its development. Our team worked collaboratively over the course of 12 weeks and found that the application works as anticipated while exceeding expectations in other areas. The end product can be further refined and improved to facilitate additional functionalities while attracting more customers within the target demographic.
